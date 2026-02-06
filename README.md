@@ -1,12 +1,12 @@
 # Hi there! I'm **Saif Khan** 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=550&height=60&lines=AI%2FML+Engineer;Exploring+the+AI+Frontier;Turning+Pixels+and+Prompts+into+Intelligence;Machines+See%2C+Models+Think%2C+I+Create)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=550&height=60&lines=AI+Engineer;Exploring+the+AI+Frontier;Turning+Pixels+and+Prompts+into+Intelligence;Machines+See%2C+Models+Think%2C+I+Create)](https://git.io/typing-svg)
 
 ## 👨🏻‍💻 Professional Profile
 
-I'm an **AI/ML Engineer** passionate about building production-ready machine learning systems, specializing in **deep learning**, **computer vision**, and **generative AI**. I love turning research ideas into practical products that solve real-world problems.
+I'm an **AI Engineer** passionate about building production-ready AI systems, specializing in  **2D/3D computer vision**, **generative AI** and **MLOps**. I love turning research ideas into practical products that solve real-world problems.
 
-**Current focus:** Model optimization, deployment pipelines, computer vision, and generative systems.
+**Current focus:** 3D computer vision and generative systems.
 
 ---
 
@@ -14,7 +14,7 @@ I'm an **AI/ML Engineer** passionate about building production-ready machine lea
 
 - Deep Learning Architecture Design
 - Computer Vision (classification, detection, segmentation)
-- Generative Models & LLMs
+- LLMs & VLMs
 - Model Optimization & Quantization
 - Data Engineering & Pipelines
 - MLOps & Deployment (Docker, CI/CD)
@@ -34,11 +34,8 @@ I'm an **AI/ML Engineer** passionate about building production-ready machine lea
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=k-saif&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
+<!-- ## 🏆 GitHub Trophies -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=k-saif&theme=radical&no-frame=true&no-bg=false&margin-w=4) -->
 
 ---
 ### 🔝 Top Contributed Repo
