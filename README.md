@@ -27,15 +27,8 @@ I'm an **AI Engineer** passionate about building production-ready AI systems, sp
 ---
 ## 📊 GitHub Stats
 
-
-![](https://github-readme-stats.vercel.app/api?username=k-saif&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=k-saif&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=k-saif&theme=dark&hide_border=false&include_all_commits=false&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=k-saif&theme=dark&hide_border=false)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=k-saif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-
-
-
-<!-- ## 🏆 GitHub Trophies -->
-<!-- ![](https://github-profile-trophy.vercel.app/?username=k-saif&theme=radical&no-frame=true&no-bg=false&margin-w=4) -->
 
 
 ---
