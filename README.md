@@ -13,7 +13,7 @@ I'm an **AI Engineer** passionate about building production-ready AI systems, sp
 ## 🧠 Core Competencies
 
 - Deep Learning Architecture Design
-- Computer Vision (classification, detection, segmentation)
+- Computer Vision (classification, detection, segmentation, tracking)
 - LLMs & VLMs
 - Model Optimization & Quantization
 - Data Engineering & Pipelines
@@ -27,14 +27,15 @@ I'm an **AI Engineer** passionate about building production-ready AI systems, sp
 ---
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=k-saif&theme=dark&hide_border=false&include_all_commits=false&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=k-saif&theme=dark&hide_border=false)
+<div align="center">
+
+<img width="41%"  src="https://github-readme-stats.vercel.app/api?username=k-saif&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+
+<img width="45%"  src="https://nirzak-streak-stats.vercel.app/?user=k-saif&theme=dark&hide_border=false" />
+
+
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=k-saif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-
-
----
-## 💬 Let's Connect & Collaborate!
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/___khan__saif?igsh=azY4NmhkbWMzMDF3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saif-khan-396348231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khansf466@gmail.com) 
+</div>
 
 ---
 ## ✍️ Quote of the day
