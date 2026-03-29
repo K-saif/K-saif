@@ -12,12 +12,11 @@ I'm an **AI Engineer** passionate about building production-ready AI systems, sp
 
 ## 🧠 Core Competencies
 
-- Deep Learning Architecture Design
 - Computer Vision (classification, detection, segmentation, tracking)
 - LLMs & VLMs
 - Model Optimization & Quantization
 - Data Engineering & Pipelines
-- MLOps & Deployment (Docker, CI/CD)
+- MLOps & Deployment (Docker, CI/CD, GCP)
 
 ---
 
