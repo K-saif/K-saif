@@ -28,7 +28,7 @@ I'm an **AI Engineer** passionate about building production-ready AI systems, sp
 
 <div align="center">
 
-<img width="41%"  src="https://github-readme-stats.vercel.app/api?username=k-saif&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=K-saif&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <img width="45%"  src="https://nirzak-streak-stats.vercel.app/?user=k-saif&theme=dark&hide_border=false" />
 
