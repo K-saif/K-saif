@@ -38,14 +38,25 @@ I also maintain **[pixpick](https://github.com/K-saif/pixpick)**, an interactive
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=K-saif&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<img width="45%"  src="https://nirzak-streak-stats.vercel.app/?user=k-saif&theme=dark&hide_border=false" />
+  <!-- DARK MODE -->
+  <a href="https://github.com/K-saif#gh-dark-mode-only">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=K-saif&theme=transparent&hide_border=true&date_format=j%20M%20Y&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=EA4335&currStreakNum=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=58A6FF#gh-dark-mode-only"/>
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=K-saif&show_icons=true&theme=transparent&hide_border=true&icon_color=58A6FF&text_color=58A6FF&bg_color=0D1117&title_color=58A6FF#gh-dark-mode-only"/>
+  </a>
+
+  <!-- LIGHT MODE -->
+  <a href="https://github.com/K-saif#gh-light-mode-only">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=K-saif&theme=default&hide_border=true&date_format=j%20M%20Y&background=ffffff&stroke=1158c7&ring=1158c7&fire=EA4335&currStreakNum=1158c7&currStreakLabel=24292f&sideNums=24292f&sideLabels=57606a&dates=57606a#gh-light-mode-only"/>
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=K-saif&show_icons=true&theme=default&hide_border=true&icon_color=1158c7&text_color=24292f&bg_color=ffffff&title_color=1158c7#gh-light-mode-only"/>
+  </a>
 
 </div>
+
 
 ---
 
