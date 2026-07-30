@@ -56,12 +56,3 @@ I also maintain **[pixpick](https://github.com/K-saif/pixpick)**, an interactive
   </a>
 
 </div>
-
-
----
-
-## ✍️ Quote of the day
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
